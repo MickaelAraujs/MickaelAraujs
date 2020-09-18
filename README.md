@@ -13,22 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hello 👋, I'm Mickael</h1>
-<h3>A passionate developer from Brazil :)</h3>
+<h3>Hello 👋, I'm Mickael</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MickaelAraujs](https://github.com/MickaelAraujs)
+<p>I'm a developer from Brazil and I'm always trying to learn new things. 🚀</p>
 
-- 💬 Ask me about **ReactJS, React Native**
+- 💬 I like to talk about **ReactJS, React Native, Javascript**
 
-- 📫 How to reach me **mickaelaraujo.contato@gmail.com**
+- 🔭 I’m currently learning about **C#, ASP .NET Core, Blazor**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mickaelaraujs&show_icons=true" alt="mickaelaraujs" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelAraujs&layout=compact" alt="Mickael languages" />  
-</p>
-
-<p align="center">
-<a href="https://twitter.com/_mickaelarauj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_mickaelarauj" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/mickaelaraujs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mickaelaraujs" height="20" width="20" /></a>
-<a href="https://instagram.com/mickaelarauj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mickaelarauj" height="20" width="20" /></a>
-</p>
+- 📫 You can reach me at **mickaelaraujo.contato@gmail.com**
