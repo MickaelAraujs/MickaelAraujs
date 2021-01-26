@@ -13,12 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Hello 👋, I'm Mickael</h3>
+<h3>Hello World 👋, I'm Mickael</h3>
 
 <p>I'm a developer from Brazil and I'm always trying to learn new things. 🚀</p>
 
 - 💬 I like to talk about **ReactJS, React Native, Javascript**
 
-- 🔭 I’m currently learning about **C#, ASP .NET Core, Blazor**
+- 🔭 I’m currently working with **C#, ASP .NET Core, Blazor, Vuejs**
 
 - 📫 You can reach me at **mickaelaraujo.contato@gmail.com**
+
+<h4>🎯 Goals 2021</h4>
+
+- Learn about Clean Code
+- Learn about SOLID Principles
+- Learn about DDD
+- Start working with android development using Java
+- Get more practice with databases and sql queries
+- Improve my knowledge about front-end development 
