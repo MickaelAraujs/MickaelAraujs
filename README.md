@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 
 <h4>🎯 Goals 2021</h4>
 
+- Get more practice with databases and sql queries
 - Learn about Clean Code
 - Learn about SOLID Principles
-- Learn about DDD
-- Start working with android development using Java
-- Get more practice with databases and sql queries
+- Learn about DDD and TDD
 - Improve my knowledge about front-end development 
+- Start working with android development using Java
+
