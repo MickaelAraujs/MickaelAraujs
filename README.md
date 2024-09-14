@@ -1,3 +1,3 @@
-### Hello World! 👋, I'm Mickael
+### Hey there! 👋, I'm Mickael
 
-I am a passionate software developer creating new products and having fun with the process :)
+I'm a passionate software engineer creating new products and having fun in the process
